@@ -1,0 +1,6 @@
+Line 1: This is a string.
+Line 2: The number 12345.
+Line 3: Another string with a number 67890.
+Additional Line 1: More text.
+Additional Line 2: Another line of text.
+Additional Line 3: Yet another line.
